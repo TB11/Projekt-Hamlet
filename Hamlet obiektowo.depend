@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1411174244 source:/home/student/Desktop/Hamlet obiektowo/book.cpp
+	"book.h"
+
+1411172029 /home/student/Desktop/Hamlet obiektowo/book.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
+1411173060 source:/home/student/Desktop/Hamlet obiektowo/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"book.h"
+

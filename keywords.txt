@@ -1,0 +1,9 @@
+ "for","if","else","continue","do","while","goto",
+  "switch","case","break","default","return",
+  "new","delete","inline",
+  "bool","char","double","float","int","long","short","void",
+  "false","true",
+  "const","unsigned","signed","volatile","mutable",
+  "auto","extern","static","register",
+  "struct","union","enum","typedef","sizeof",
+  
